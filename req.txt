@@ -1,0 +1,6 @@
+fasttext-wheel
+sentence-transformers
+faiss-cpu
+torch
+numpy
+requests
